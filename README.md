@@ -1,2 +1,2 @@
 # Utkarsh_Repository
-Leaning
+Learning
